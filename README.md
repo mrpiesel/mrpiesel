@@ -1,17 +1,2 @@
-- 👋 Hi, I’m @mrpiesel
-UWU
-UWU
-UWU
-UWU
-UWU
-UWU
-UWU
-UWU
-UWU
-UWU
-UWU
-UWU
-UWU
-UWU
-UWU
-UWU
+
+https://discord.friendscraft.pl
