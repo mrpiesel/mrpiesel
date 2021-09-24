@@ -1,2 +1,2 @@
 
-https://discord.friendscraft.pl
+https://zagrodamc.pl/discord
