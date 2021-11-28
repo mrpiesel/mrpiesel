@@ -1,7 +1,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-&nbsp;Js sie ucze, To tyle
+&nbsp;Zajebali radio, nie wiadomo kto
 
 ### 🛠 &nbsp;Software
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
