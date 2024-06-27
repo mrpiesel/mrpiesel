@@ -1,5 +1,5 @@
 # Contact:
-Discord: MrPiesel#5075 <br>
-WWW: [mrpiesel.pl](https://mrpiesel.pl)
+Discord: MrPiesel<br>
+Website: [MrPiesel.pl](https://mrpiesel.pl)
 # Projects:
-Currently none
+Skidding
